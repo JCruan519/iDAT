@@ -33,7 +33,7 @@ For pre-trained ViT models on ImageNet-21K, the weights will be automatically do
 
 
 
-## 3. Fine-tuning with in our iDAT framework
+## 3. Fine-tuning within our iDAT framework
 
 To fine-tune a pre-trained ViT model via `Adapter` within our iDAT framework on VTAB-1K, run:
 
