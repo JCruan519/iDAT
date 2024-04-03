@@ -1,6 +1,6 @@
 # iDAT: inverse Distillation Adapter-Tuning
 
-This is the offical repository of iDAT: inverse Distillation Adapter-Tuning, which is accepted by ICME 2024.
+This is the offical repository of iDAT: inverse Distillation Adapter-Tuning, which is accepted by ICME 2024. ({Arxiv Paper})[https://arxiv.org/abs/2403.15750]
 
 ## Abstract
 
